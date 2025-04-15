@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BettyWalletSystem.ConsoleApp", "BettyWalletSystem.ConsoleApp\BettyWalletSystem.ConsoleApp.csproj", "{78E89FA4-20B3-4B86-9786-FC356D76E66A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BettyWallet.Application", "BettyWallet.Application\BettyWallet.Application.csproj", "{5B8C2EDE-F465-4925-A56E-F67EC4890447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BettyWallet.Domain", "BettyWallet.Domain\BettyWallet.Domain.csproj", "{95D2C402-F246-487C-8055-4B580C8E9571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BettyWallet.Infrastructure", "BettyWallet.Infrastructure\BettyWallet.Infrastructure.csproj", "{4F51A14E-65A4-497E-8D03-B13B9CC180F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BettyWallet.Tests", "BettyWallet.Tests\BettyWallet.Tests.csproj", "{6D3AB588-8710-4B4B-9A1E-952EED8B579A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78E89FA4-20B3-4B86-9786-FC356D76E66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E89FA4-20B3-4B86-9786-FC356D76E66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E89FA4-20B3-4B86-9786-FC356D76E66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E89FA4-20B3-4B86-9786-FC356D76E66A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8C2EDE-F465-4925-A56E-F67EC4890447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8C2EDE-F465-4925-A56E-F67EC4890447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8C2EDE-F465-4925-A56E-F67EC4890447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8C2EDE-F465-4925-A56E-F67EC4890447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D2C402-F246-487C-8055-4B580C8E9571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D2C402-F246-487C-8055-4B580C8E9571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D2C402-F246-487C-8055-4B580C8E9571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D2C402-F246-487C-8055-4B580C8E9571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F51A14E-65A4-497E-8D03-B13B9CC180F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F51A14E-65A4-497E-8D03-B13B9CC180F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F51A14E-65A4-497E-8D03-B13B9CC180F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F51A14E-65A4-497E-8D03-B13B9CC180F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D3AB588-8710-4B4B-9A1E-952EED8B579A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3AB588-8710-4B4B-9A1E-952EED8B579A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3AB588-8710-4B4B-9A1E-952EED8B579A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3AB588-8710-4B4B-9A1E-952EED8B579A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {335062EB-7265-4F25-9EF9-4AF69FD528BD}
+	EndGlobalSection
+EndGlobal
